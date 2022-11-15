@@ -3,7 +3,7 @@
 <tr>
 <td><img src="figures\Polytechnique_signature-RGB-gauche_FR.png" alt="Logo de Polytechnique Montréal"></td>
 <td><h2>INF3500 - Conception et réalisation de systèmes numériques
-<br><br>Hiver 2022
+<br><br>Automne 2022
 <br><br>Laboratoire #5 : Communications avec la carte
 </h2></td>
 </tr>
